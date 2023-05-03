@@ -1,1 +1,17 @@
-
+[
+  {
+    "ch": "Real Numbers",
+    "num": "01",
+    "slug": "real-numbers"
+  },
+  {
+    "ch": "Polynomials",
+    "num": "02",
+    "slug": "polynomials"
+  },
+  {
+    "ch": "Pair of Linear Equations in 2 Variables",
+    "num": "03",
+    "slug": "pair-of-linear-equations-in-2-variables"
+  }
+]
