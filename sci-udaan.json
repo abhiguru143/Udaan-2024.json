@@ -1,1 +1,17 @@
-
+[
+  {
+    "ch": "Light - Reflection & Refraction",
+    "num": "01",
+    "slug": "light"
+  },
+  {
+    "ch": "Life Processes",
+    "num": "02",
+    "slug": "life-processes"
+  },
+  {
+    "ch": "Chemical Reactions and Equations",
+    "num": "03",
+    "slug": "chemical-reactions-and-equations"
+  }
+]
