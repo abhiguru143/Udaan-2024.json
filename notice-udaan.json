@@ -1,1 +1,18 @@
 
+[
+  {
+    "ch": "Test Syllabus || (Only PDF)",
+    "num": "01",
+    "slug": "test-syllabus"
+  },
+  {
+    "ch": "Test Paper || (Only PDF)",
+    "num": "02",
+    "slug": "test-paper"
+  },
+  {
+    "ch": "Board Pattern Test",
+    "num": "03",
+    "slug": "board-pattern-test"
+  }
+]
